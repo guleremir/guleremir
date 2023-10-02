@@ -20,4 +20,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guleremir&" alt="guleremir" /></p>
 
 
-//![snake gif](https://github.com/guleremir/guleremir/blob/output/github-contribution-grid-snake.gif)
