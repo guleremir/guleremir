@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Emir Güler</h1>
 <h3 align="center">I'm software developer</h3>
 
