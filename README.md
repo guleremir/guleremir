@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emir Güler</h1>
 <h3 align="center">I'm software developer</h3>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **Java** and **C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
