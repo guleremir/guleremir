@@ -47,5 +47,4 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guleremir&theme=darcula" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guleremir&theme=darcula" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guleremir&theme=darcula" height="180em" />
-<img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000px"/>
 </div>
