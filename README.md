@@ -1,9 +1,9 @@
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7"/>
 <h1 align="center">Hi 👋, I'm Emir Güler...</h1>
 <h3 align="center">🔭 I’m currently working on Java, Spring Boot...</h3>
 
-<img align="right" height="100" width="100" src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif">
+<img align="right" height="100" width="100" src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif"/>
 <h3>🚀 Tobeto, Istanbul Kodluyor student.</h3>
 <h3>🌱 I’m currently learning C#, .Net </h3>
 
@@ -43,8 +43,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"><h3 align="center">Statistics</h3>
 </div>
 <div align="center">
-<a href="https://github.com/https://github.com/guleremir">
+<a href="https://github.com/https://github.com/guleremir"></a>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guleremir&theme=darcula" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guleremir&theme=darcula" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guleremir&theme=darcula" height="180em" />
+<img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300px"/>
 </div>
